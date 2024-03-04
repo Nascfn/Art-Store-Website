@@ -1,0 +1,27 @@
+body{
+    font-family: Helvetica;
+    background-color: beige;
+}
+
+h1{
+    text-align: center;
+    background-image: url("./pattern.jpeg");
+    font-size: 100px;
+    color: Azure;
+}
+
+ #brushes-title{
+    background-color: lightgreen;
+}
+
+#frames-title{
+    background-color: burlywood;
+}
+
+#paint-title{
+    background-color: blueviolet;
+}
+
+strong{
+    color:blue;
+}
