@@ -25,3 +25,9 @@ h1{
 strong{
     color:blue;
 }
+
+h4{
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    font-size: 30px;
+}
